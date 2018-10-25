@@ -39,4 +39,4 @@
 
 #### The next best way is to take a screenshot of the video to use as an image that users can click on.  You can use any image for this but by using a screenshot you can visually represent that the image links to a video thanks to the video progress bar showing at the bottom.
 
-[![10 Hours of Nyan Cat](nyancat_screenshot.png)](https://www.youtube.com/watch?v=SkgTxQm9DWM)
+[![10 Hours of Nyan Cat](Nyancat_screenshot.png)](https://www.youtube.com/watch?v=SkgTxQm9DWM)
