@@ -1,7 +1,10 @@
-# CSV.Testing
-testing csv. displays
+# Trying out different ways do have csv files on GitHub pages
+
+## The first way is to simply link to the file like this: 
 
 [CSV file](census_data.csv)
+
+## The second way is to use a csv. to markdown convereter to turn the raw csv. file into a table.  I used the converter located [HERE](https://donatstudios.com/CsvToMarkdownTable)
 
 | "Geographic name, english" | "Provincial / territory abbreviation, english" | "Population, 2011" | "Population, 2016" | 
 |----------------------------|------------------------------------------------|--------------------|--------------------| 
@@ -19,3 +22,6 @@ testing csv. displays
 | Yukon                      | Y.T.                                           | 33897              | 35874              | 
 | Northwest Territories      | N.W.T.                                         | 41462              | 41786              | 
 | Nunavut                    | Nvt.                                           | 31906              | 35944              | 
+
+
+## Beyond this you would need to use another language to display the table.
