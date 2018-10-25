@@ -1,4 +1,10 @@
-### Adding CSV. Files
+# Jump to
+[CSV Files](#adding-csv-files)  
+[Videos](#adding-videos)
+
+
+
+### Adding CSV Files
 
 #### The first way is to simply link to the file like this: 
 
@@ -30,7 +36,7 @@
 -----
 -----
 
-### Adding Video's
+### Adding Videos
 
 #### The first way is to simply link to the file like this: 
 
