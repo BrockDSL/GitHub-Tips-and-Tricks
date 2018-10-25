@@ -1,10 +1,10 @@
-# Trying out different ways do have csv files on GitHub pages
+### Adding CSV. Files
 
-## The first way is to simply link to the file like this: 
+#### The first way is to simply link to the file like this: 
 
 [CSV file](census_data.csv)
 
-## The second way is to use a csv. to markdown convereter to turn the raw csv. file into a table.  I used the converter located [HERE](https://donatstudios.com/CsvToMarkdownTable)
+#### The second way is to use a csv. to markdown convereter to turn the raw csv. file into a table.  I used the converter located [HERE](https://donatstudios.com/CsvToMarkdownTable)
 
 | "Geographic name, english" | "Provincial / territory abbreviation, english" | "Population, 2011" | "Population, 2016" | 
 |----------------------------|------------------------------------------------|--------------------|--------------------| 
@@ -24,4 +24,19 @@
 | Nunavut                    | Nvt.                                           | 31906              | 35944              | 
 
 
-## Beyond this you would need to use another language to display the table.
+#### Beyond this you would need to use another language to display the table.
+
+-----
+-----
+-----
+
+### Adding Video's
+
+#### The first way is to simply link to the file like this: 
+
+[10 Hours of Nyan Cat](https://www.youtube.com/watch?v=SkgTxQm9DWM)
+
+
+#### The next best way is to take a screenshot of the video to use as an image that users can click on.  You can use any image for this but by using a screenshot you can visually represent that the image links to a video thanks to the video progress bar showing at the bottom.
+
+[![10 Hours of Nyan Cat](nyancat_screenshot.png)](https://www.youtube.com/watch?v=SkgTxQm9DWM)
